@@ -1,0 +1,5 @@
+- mv /cocos2d/samples/HelloCpp/proj.linux ./
+- mv /cocos2d/cocos2dx/platform/linux VOXCHRONICLE/libs/cocos2dx/platform/linux
+- cp -r VOXCHRONICLE/libs/cocos2dx/tileMap_parallax_nodes/ VOXCHRONICLE/libs/cocos2dx/tilemap_parallax_nodes/
+- mv /cocos2d/CocosDenshion/linux VOXCHRONICLE/libs/CocosDenshion/
+- mv /cocos2d/cocos2dx/platform/third_party/linux VOXCHRONICLE/libs/cocos2dx/platform/third_party
